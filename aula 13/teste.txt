@@ -1,0 +1,2 @@
+Olá, este é um exemplo de arquivo.
+Segunda linha do arquivo.
